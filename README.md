@@ -6,7 +6,7 @@
    1. Command prompt and go to feature directory
       1. behave -f allure_behave.formatter:AllureFormatter -o reports ./feature
       2. allure serve reports/
-      3. HTML report should generate in local. I have attached some screenshots.
+      3. HTML report should generate in local. Execution video attached.
 
 
 ## TO RUN THE AUTO TEST
@@ -18,3 +18,6 @@
 
 
 Thank you
+
+
+[Hitesh Sharma auto test execution video.zip](https://github.com/hitesh02sharma/ecstechtest/files/7581649/Hitesh.Sharma.auto.test.execution.video.zip)
